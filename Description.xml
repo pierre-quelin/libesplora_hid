@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  libesplora_hid — nested fetch pulls libusb for MSVC.
+-->
+<assembly>
+  <components>
+    <component>
+      <name>libusb</name>
+      <version>1.0.30</version>
+      <path>deps/libusb-1.0.30</path>
+      <source type="https" artifact="archive">https://github.com/libusb/libusb/releases/download/v1.0.30/libusb-1.0.30.7z</source>
+      <build_target>msvc16-x86_64</build_target>
+    </component>
+  </components>
+</assembly>
