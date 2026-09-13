@@ -8,6 +8,12 @@ Public include:
 #include <esplora/hid/esplora_hid.hpp>
 ```
 
+## License
+
+This project is licensed under the **GNU Lesser General Public License v3.0** (LGPL-3.0).
+
+For the full license text, see: https://www.gnu.org/licenses/lgpl-3.0.txt
+
 ## Status
 
 | Piece | State |
